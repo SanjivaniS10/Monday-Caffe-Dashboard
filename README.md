@@ -14,7 +14,7 @@ Track key business metrics using KPIs
 Identify top-performing products and order trends
 
 Enable dynamic exploration of data through slicers
-Dashboard:
+Dashboard: "https://github.com/SanjivaniS10/Monday-Caffe-Dashboard/blob/main/cafe.png
 
 🛠️ Tools & Technologies
 
