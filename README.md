@@ -14,6 +14,7 @@ Track key business metrics using KPIs
 Identify top-performing products and order trends
 
 Enable dynamic exploration of data through slicers
+Dashboard:
 
 🛠️ Tools & Technologies
 
