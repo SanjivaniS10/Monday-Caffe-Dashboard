@@ -16,8 +16,7 @@ Identify top-performing products and order trends
 Enable dynamic exploration of data through slicers
 
 
-<img src="images/dashboard.png](https://github.com/SanjivaniS10/Monday-Caffe-Dashboard/blob/main/cafe.png" alt="Monday Cafe Dashboard" width="900">
-
+![Road Accident Dashboard](images/dashboard.png](https://github.com/SanjivaniS10/Monday-Caffe-Dashboard/blob/main/cafe.png)
 Dashboard: "https://github.com/SanjivaniS10/Monday-Caffe-Dashboard/blob/main/cafe.png"
 
 🛠️ Tools & Technologies
